@@ -42,12 +42,12 @@ The following questions formed the basis our analysis:
 
 In answering the first question, we gathered that out of a total of 1994 rows of dog image prediction data analyzed, only 1477 were images of dog breeds while 517 were not even dog breeds. Meaning that of all images posted within the period of November 2015 to August 2017, only 74% of all images posted for ratings on WeRateDogs twitter page were actual pictures of dogs while 26% were not even pictures of dogs.
 
-![dogproportion](./dog proportion.png)
+![dog proportion](https://github.com/mchenryspagg/wrangle-and-analyze-data/blob/ca89b90e6d96dcb4d140ef52e6c6fe7aa38c8ebf/dog%20proportion.png)
 
 We also gathered that within that same period as earlier highlighted, only images of 374 dog breeds have been rated on WeRateDogs twitter timeline out of a total of 1477 dog images data assessed. 12/10 was observed to be the highest proportion of rating given on WeRateDogs twitter page with a mean dog rating of 10/10. The lowest dog rating however was 0 as clearly shown in the chart below. Only 35 dog images have received a rating of 14 which was the highest rating ever given within the period.
 _P.S: Note that this data does not include images that were not dog breeds_.
 
-![dogratings](./dog ratings.png)
+![dog ratings](https://github.com/mchenryspagg/wrangle-and-analyze-data/blob/ca89b90e6d96dcb4d140ef52e6c6fe7aa38c8ebf/dog%20ratings.png)
 
 Lastly, we were also able to gather from our analysis that within the period in question - November 2015 - August 2017, the tweet with the highest retweet count and favorite count(likes) was tweeted on the 18th of June 2016 at 7.26pm from an iPhone with a test “**Here's a doggo realizing you can stand in a pool. 13/10 enlightened af (vid by Tina Conrad)**" and tweet [URL]( https://twitter.com/dog_rates/status/744234799360020481/) with 70,331 retweets and 144,247 likes on that particular tweet.
 
