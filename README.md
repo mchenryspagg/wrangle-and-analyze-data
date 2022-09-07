@@ -76,7 +76,7 @@ There is always room for more learning in the areas of data wrangling, assessing
 
 ### Useful resources
 
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html) - This course is great to learn and master javascript with practical hands-on experience to test your learning as you go
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html) - Pandas documentation to guide any student or researcher on best practices on pandas functions and methods.
 - [Stack Overflow](https://stackoverflow.com/questions/25646200/python-convert-timedelta-to-int-in-a-dataframe) - A useful platform  to search for possible answers to questions.
 - [Tweepy Documentation](https://docs.tweepy.org/en/stable/) - Documentation to understand how to use the twitter API library tweepy.
 - [How to Get a twitter Developer Account and API keys - A beginners guide](https://medium.com/@Nonso_Analytics/how-to-get-a-twitter-developer-account-and-api-key-a-beginners-guide-1c5c18765a9d) - This medium article would help any interested student or developer get access to the twitter API.
