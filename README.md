@@ -49,7 +49,7 @@ _P.S: Note that this data does not include images that were not dog breeds_.
 
 ![dog ratings](https://github.com/mchenryspagg/wrangle-and-analyze-data/blob/ca89b90e6d96dcb4d140ef52e6c6fe7aa38c8ebf/dog%20ratings.png)
 
-Lastly, we were also able to gather from our analysis that within the period in question - November 2015 - August 2017, the tweet with the highest retweet count and favorite count(likes) was tweeted on the 18th of June 2016 at 7.26pm from an iPhone with a test “**Here's a doggo realizing you can stand in a pool. 13/10 enlightened af (vid by Tina Conrad)**" and tweet [URL]( https://twitter.com/dog_rates/status/744234799360020481/) with 70,331 retweets and 144,247 likes on that particular tweet.
+Lastly, we were also able to gather from our analysis that within the period in question - November 2015 - August 2017, the tweet with the highest retweet count and favorite count(likes) was tweeted on the 18th of June 2016 at 7.26pm from an iPhone with a tweet text “**Here's a doggo realizing you can stand in a pool. 13/10 enlightened af (vid by Tina Conrad)**" and tweet [URL]( https://twitter.com/dog_rates/status/744234799360020481/) with 70,331 retweets and 144,247 likes on that particular tweet.
 
 ### Links
 
