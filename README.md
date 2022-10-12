@@ -7,7 +7,7 @@ Showcase ability to wrangle the twitter archive data of twitter user @dogs_rate 
 The Wrangle and Analyze data project is aimed at demonstrating the capabilities of the student to gather data from different sources, wrangle data, analyze data and create insights and great visualizations from these data.
 
 ### How
-I gathered three datasets from three different data sources and worked with three different types of files – manually downloading a [csv file](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv), getting additional information from a [URL](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) using the request library and save into a tsv file, and lastly using the twitter API `tweepy` to extract some more information about the data from twitter into a [JSON file](./tweet_json.txt). All three files were used to create three separate datasets with data from the tweet archive of twitter user @dog_rates, also known as WeRateDogs.
+I gathered three datasets from three different data sources and worked with three different types of files – manually downloading a [csv file](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv), getting additional information from a [URL](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) using the request library and saved into a tsv file, and lastly using the twitter API `tweepy` to extract some more information about the data from twitter into a [JSON file](./tweet_json.txt). All three files were used to create three separate datasets with data from the tweet archive of twitter user @dog_rates, also known as WeRateDogs.
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ I gathered three datasets from three different data sources and worked with thre
 
 
 ## Overview
-This project which is known as wrangle and analyze data involves the wrangling of WeRateDogs twitter archive data from the period of 2015 to 2017. The twitter archive data was made available to Udacity by the twitter user was used for the purpose of this project’s objective. See archive [here]( https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv ).
+This project which is known as wrangle and analyze data involves the wrangling of WeRateDogs twitter archive data from the period of 2015 to 2017. The twitter archive data made available to Udacity by the twitter user was used for the purpose of this project’s objective. See archive [here]( https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv ).
 
 ### The challenge 
 The goal of this project is to wrangle WeRateDogs twitter data to create interesting and trustworthy analyses and visualizations. The twitter data however contains very basic information. Therefore, gathering of additional data was carried out using twitter API and image prediction data was also collected [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) prior to  cleaning and assessing of the data.
